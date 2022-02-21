@@ -22,4 +22,4 @@ The dataset contains the following columns:
 
 This dataset was processed last August 2021. This is available for public consumption, under the [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/), and with proper attribution to Sakay and OpenStreetMap.
 
-For more information, please refer to this blog post.
+For more information, please refer to this [blog post](https://blog.sakay.ph/building-a-geospatial-dataset-of-comelec-offices-in-the-philippines/).
